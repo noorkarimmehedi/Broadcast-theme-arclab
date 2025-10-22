@@ -62,6 +62,15 @@
         "padding_bottom": 30
       }
     },
+    "section_anchor_logo_eFnT9d": {
+      "type": "section-anchor-logo",
+      "name": "Logo",
+      "settings": {
+        "logo": "shopify://shop_images/Group_4.svg",
+        "padding_top": 5,
+        "padding_bottom": 0
+      }
+    },
     "supporting-menu": {
       "type": "section-supporting-menu",
       "disabled": true,
@@ -78,6 +87,7 @@
   },
   "order": [
     "footer",
+    "section_anchor_logo_eFnT9d",
     "supporting-menu"
   ]
 }
