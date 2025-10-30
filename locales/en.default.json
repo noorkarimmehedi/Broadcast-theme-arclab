@@ -530,6 +530,9 @@
       "contact": {
         "email_or_phone_label": "Enter mobile phone number",
         "email_or_phone_placeholder": "Enter mobile phone number"
+      },
+      "field_errors": {
+        "email_or_phone_blank": "Enter your phone number "
       }
     }
   }
