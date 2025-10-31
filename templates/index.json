@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/desktop_banner_03.png",
             "mobile_image": "shopify://shop_images/mobile_banner.png",
-            "overlay_opacity": 0,
+            "overlay_opacity": 10,
             "overlay_color": "#000000",
             "show_overlay_text": false,
             "title": "",
