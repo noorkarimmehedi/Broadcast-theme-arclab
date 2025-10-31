@@ -15,7 +15,8 @@
         "slideshow-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Gemini_Generated_Image_15koeg15koeg15ko.png",
+            "image": "shopify://shop_images/desktop_banner.png",
+            "mobile_image": "shopify://shop_images/Gemini_Generated_Image_15koeg15koeg15ko.png",
             "overlay_opacity": 15,
             "overlay_color": "#000000",
             "show_overlay_text": false,
