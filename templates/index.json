@@ -573,15 +573,15 @@
         "question_MUgY8U": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.</p>"
+            "title": "Do you ship all over Bangladesh?",
+            "content": "<p>Yes, we ship all over Bangladesh. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
           }
         },
         "question_kGk3ix": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.</p>"
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 2-5 business days to arrive. Delivery details will be provided in your confirmation email.</p>"
           }
         },
         "question_6FrqVh": {
