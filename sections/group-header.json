@@ -46,7 +46,7 @@
         "logo": "shopify://shop_images/Image_10-7-25_at_19.26.png",
         "logo_max_limit": 80,
         "main_menu_linklist": "sidebar-menu",
-        "enable_search": false,
+        "enable_search": true,
         "show_social_icons": false,
         "show_locale_selector": true,
         "show_currency_selector": true,
