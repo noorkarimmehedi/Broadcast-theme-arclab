@@ -82,11 +82,7 @@
       },
       "announcement": {
         "type": "announcement",
-        "settings": {
-          "layout": "slider",
-          "bg_color": "#f7f7f7",
-          "color": "#545454"
-        }
+        "settings": {}
       },
       "section-newsletter": {
         "type": "section-newsletter",
