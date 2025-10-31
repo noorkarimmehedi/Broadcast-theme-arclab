@@ -46,12 +46,21 @@
             "text": "<p>59/3</p><p>Pilkhana Road</p><p>Azimpur, Dhaka-1205</p>",
             "column_width": 33
           }
+        },
+        "social_jUrn6j": {
+          "type": "social",
+          "settings": {
+            "title": "Social Media",
+            "text": "",
+            "column_width": 33
+          }
         }
       },
       "block_order": [
         "footer-0",
         "footer-1",
-        "footer-2"
+        "footer-2",
+        "social_jUrn6j"
       ],
       "settings": {
         "logo_image_width": 150,
