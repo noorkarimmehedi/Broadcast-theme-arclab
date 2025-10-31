@@ -17,7 +17,6 @@
     },
     "announcement": {
       "type": "announcement",
-      "disabled": true,
       "settings": {
         "announcement": true,
         "speed": 5000,
