@@ -11,8 +11,13 @@
   "type": "header",
   "name": "Header",
   "sections": {
+    "17619060431efef4aa": {
+      "type": "_blocks",
+      "settings": {}
+    },
     "announcement": {
       "type": "announcement",
+      "disabled": true,
       "settings": {
         "announcement": true,
         "speed": 5000,
@@ -58,6 +63,7 @@
     }
   },
   "order": [
+    "17619060431efef4aa",
     "announcement",
     "header"
   ]
