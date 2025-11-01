@@ -178,19 +178,9 @@
     },
     "content_for_index": [],
     "blocks": {
-      "6615124273980966592": {
-        "type": "shopify://apps/chatty/blocks/app-embed/1c0e135d-e8e1-4fe2-86be-1c36def46675",
-        "disabled": true,
-        "settings": {}
-      },
-      "4096659318022801403": {
-        "type": "shopify://apps/moosedesk-helpdesk/blocks/md-help-form-widget/93b7f24a-a2e1-418d-ba5c-fd925adb43e1",
-        "disabled": true,
-        "settings": {}
-      },
-      "6143736321357441667": {
-        "type": "shopify://apps/tidio-live-chat-chatbots/blocks/app-embed/1002274d-fb18-4939-98f6-5f05a8deeadc",
-        "disabled": true,
+      "13017476918150166000": {
+        "type": "shopify://apps/wa-chat-button/blocks/whatsapp/f4d01795-3d1a-4ac7-bca7-9d0d178df50e",
+        "disabled": false,
         "settings": {}
       }
     }
