@@ -182,6 +182,11 @@
         "type": "shopify://apps/chatty/blocks/app-embed/1c0e135d-e8e1-4fe2-86be-1c36def46675",
         "disabled": true,
         "settings": {}
+      },
+      "4096659318022801403": {
+        "type": "shopify://apps/moosedesk-helpdesk/blocks/md-help-form-widget/93b7f24a-a2e1-418d-ba5c-fd925adb43e1",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
