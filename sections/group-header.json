@@ -43,7 +43,7 @@
         "show_icons": true,
         "icon_as_circle": false,
         "cart_icon_family": "bag",
-        "logo": "shopify://shop_images/Logo.svg",
+        "logo": "shopify://shop_images/logo_02.png",
         "logo_max_limit": 200,
         "main_menu_linklist": "sidebar-menu",
         "enable_search": true,
