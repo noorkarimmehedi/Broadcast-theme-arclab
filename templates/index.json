@@ -402,14 +402,16 @@
         },
         "upsell_PtPcid": {
           "type": "upsell",
+          "disabled": true,
           "settings": {
-            "upsell_product": "",
+            "upsell_product": "the-stories-1",
             "bg_color": "",
             "padding_bottom": 16
           }
         },
         "divider_KQpdhf": {
           "type": "divider",
+          "disabled": true,
           "settings": {
             "show_line": true,
             "padding_top": 10,
@@ -418,7 +420,6 @@
         },
         "icon_zRd8ct": {
           "type": "icon",
-          "disabled": true,
           "settings": {
             "icon_name": "icon-email",
             "icon_size": 20,
@@ -430,12 +431,11 @@
         },
         "icon_jrkq97": {
           "type": "icon",
-          "disabled": true,
           "settings": {
             "icon_name": "icon-truck",
             "icon_size": 20,
             "icon_color": "#545454",
-            "title": "Free shipping on orders over $100",
+            "title": "Free shipping on orders over ৳1000",
             "width": "full",
             "padding_bottom": 16
           }
