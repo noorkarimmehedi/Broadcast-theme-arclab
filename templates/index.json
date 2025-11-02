@@ -629,7 +629,7 @@
     "featured-collection": {
       "type": "section-collection",
       "settings": {
-        "heading": "Products",
+        "heading": "All of our Products",
         "description": "",
         "layout": "inline",
         "link_text": "Shop Now",
