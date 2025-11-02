@@ -465,7 +465,7 @@
             "icon_size": 20,
             "icon_color": "#545454",
             "title": "Fast shipping",
-            "text": "<p>Use this to answer some common questions you hear from your customers. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your products. This section will appear across all products.</p>"
+            "text": "<p>We process all orders as quickly as possible after confirmation.</p><ul><li><strong>Dhaka City deliveries</strong> usually arrive within <strong>1–2 business days</strong>.<br/></li><li><strong>Outside Dhaka City deliveries</strong> take about <strong>2–3 business days</strong>, depending on the location and courier service.<br/></li></ul><p>You’ll receive a confirmation message once your order is shipped.</p>"
           }
         },
         "shipping-1": {
@@ -475,7 +475,7 @@
             "icon_size": 20,
             "icon_color": "#545454",
             "title": "Order tracking",
-            "text": "<p>Use this to answer some common questions you hear from your customers. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your products. This section will appear across all products.</p>"
+            "text": "<p>Once your order is shipped, we’ll send you a tracking number or link via SMS.<br/></p><p>You can use this to see your order’s current status and expected delivery date.</p><p>If you don’t receive a tracking update within <strong>24 hours</strong> of ordering, feel free to message us directly.</p>"
           }
         },
         "shipping-2": {
