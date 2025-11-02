@@ -331,7 +331,7 @@
         "align_text": "text-center",
         "icon_alignment": "icon--top",
         "align_columns": "flex-align-center",
-        "width": "wrapper--full-padded",
+        "width": "wrapper",
         "bg_color": "",
         "color": "",
         "padding_top": 25,
