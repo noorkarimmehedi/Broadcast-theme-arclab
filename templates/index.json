@@ -423,7 +423,6 @@
         },
         "lookbook-1": {
           "type": "product",
-          "disabled": true,
           "settings": {
             "product": "",
             "position_x": 41,
@@ -435,6 +434,7 @@
         "lookbook-0",
         "lookbook-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/image.png",
         "title": "Shop the look",
