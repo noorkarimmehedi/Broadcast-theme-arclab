@@ -279,6 +279,66 @@
         "padding_bottom": 0
       }
     },
+    "section_text_row_p8kgUd": {
+      "type": "section-text-row",
+      "blocks": {
+        "icon_RAy3zF": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-shield",
+            "icon_size": 20,
+            "icon_color": "#545454",
+            "title": "Secure transactions",
+            "heading_size": 4,
+            "text": "<p>30days Easy Return</p>",
+            "text_size": 3
+          }
+        },
+        "icon_G67APp": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-truck",
+            "icon_size": 20,
+            "icon_color": "#545454",
+            "title": "Fast Delivery",
+            "heading_size": 4,
+            "text": "<p>Delivery Within 48Hours</p>",
+            "text_size": 3
+          }
+        },
+        "icon_LWkJyn": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-chat",
+            "icon_size": 20,
+            "icon_color": "#545454",
+            "title": "Get in touch",
+            "heading_size": 4,
+            "text": "<p>You can call us at +8801602070298. We will be happy to assist you. </p>",
+            "text_size": 3
+          }
+        }
+      },
+      "block_order": [
+        "icon_RAy3zF",
+        "icon_G67APp",
+        "icon_LWkJyn"
+      ],
+      "name": "Text columns with icons",
+      "settings": {
+        "title": "",
+        "heading_size": 5,
+        "align_text": "text-center",
+        "icon_alignment": "icon--top",
+        "align_columns": "flex-align-top",
+        "width": "wrapper--full-padded",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "layout_mobile": "carousel"
+      }
+    },
     "tabs": {
       "type": "section-tab-collections",
       "blocks": {
@@ -424,7 +484,7 @@
             "icon_name": "icon-email",
             "icon_size": 20,
             "icon_color": "#545454",
-            "title": "Free 30 Days Returns",
+            "title": "30 Days Returns",
             "width": "full",
             "padding_bottom": 16
           }
@@ -757,6 +817,7 @@
     "docs",
     "image-with-text",
     "product-with-image",
+    "section_text_row_p8kgUd",
     "tabs",
     "section_product_EyMUew",
     "rich-text",
