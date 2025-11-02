@@ -416,7 +416,8 @@
           "settings": {
             "title": "",
             "text": "<p>All measurements are in inches. For best fit, measure yourself and compare with the chart above.</p>",
-            "aspect_ratio": 0.6
+            "image": "shopify://shop_images/WhatsApp_Image_2025-11-02_at_14.12.47.jpg",
+            "aspect_ratio": 0.4
           }
         },
         "about-1": {
