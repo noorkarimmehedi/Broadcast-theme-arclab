@@ -791,7 +791,7 @@
           "type": "question",
           "settings": {
             "title": "Any question?",
-            "content": "<p>You can call us at +8801602070298 We will be happy to assist you. </p>"
+            "content": "<p>You can call us at +8801602070298. We will be happy to assist you. </p>"
           }
         }
       },
