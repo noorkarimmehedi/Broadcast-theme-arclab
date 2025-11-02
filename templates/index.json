@@ -330,7 +330,7 @@
         "heading_size": 5,
         "align_text": "text-center",
         "icon_alignment": "icon--top",
-        "align_columns": "flex-align-top",
+        "align_columns": "flex-align-center",
         "width": "wrapper--full-padded",
         "bg_color": "",
         "color": "",
