@@ -6,9 +6,9 @@
 
 {% style %}
   .ai-category-section-{{ ai_gen_id }} {
-    padding: {{ block.settings.section_padding_top }}px 10 {{ block.settings.section_padding_bottom }}px;
-    background-color: {{ block.settings.background_color }};
-  }
+  padding: {{ block.settings.section_padding_top | times: 0.6 }}px 0 {{ block.settings.section_padding_bottom | times: 0.6 }}px;
+}
+
 
   .ai-category-container-{{ ai_gen_id }} {
     max-width: {{ block.settings.container_width }}px;
